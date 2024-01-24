@@ -9,11 +9,11 @@
 
 /*variables*/
 :root{
-    --main-color:#cc7722;
+    --main-color:#0e76a8;
     --main-text-color: white;
     --border-color: #191919;
-    --bio-bg-color: #525158;
-    --bio-border-color: #FF5733;
+    --bio-bg-color: #39383d;
+    --bio-border-color: #fff;
     --about-bg-color: #39383d;
 }
 /*general*/
@@ -68,7 +68,7 @@
     display: flex;
     justify-content: center;
     list-style: none;
-    border-bottom: 2px solid var(--border-color);
+    border-bottom: 2px solid var(--bio-border-color);
     margin-bottom: 15px;
     padding-bottom: 15px;
 }
@@ -113,11 +113,6 @@
     margin-bottom: 15px;
 }
 
-#title{
-    font-size: 24px;
-    margin-bottom: 15px;
-    font-weight: bold;
-}
 
 .description{
     max-width: 75%;
@@ -155,7 +150,7 @@
 }
 
 #skills-section-title{
-    border-top: 1px solid var(--border-color);
+    border-top: 1px solid var(--bio-border-color);
     padding-top: 20px ;
     margin-bottom: 20px;
     font-size: 32px;
