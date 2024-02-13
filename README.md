@@ -13,18 +13,16 @@ Olá, este é o repositório do meu simples portfólio, no qual une até então 
     - [Frontend](#frontend)
     - [Databases](#databases-bancodedados)
     - [Tools](#tools)
-    - [Projects](#projects)
 ---
 ## Backend
 <p align="left">  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,python,java" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,java" />
   </a>
 </p>
 <p align="left">
 <code>Javascript</code>
 <code>Nodejs</code>
-<code>Python</code>
 <code>Java</code>
 </p>
 
@@ -65,7 +63,3 @@ Olá, este é o repositório do meu simples portfólio, no qual une até então 
 <code>Docker</code>
 
 ---
-
-## Projects/Projetos
-
-- Promises: 
