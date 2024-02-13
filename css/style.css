@@ -16,6 +16,22 @@
     --bio-border-color: #fff;
     --about-bg-color: #411010;
 }
+
+@keyframes enterAnimation {
+    0% {
+        opacity: 0;
+        transform: translateY(-50px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+.animated-element {
+    animation: enterAnimation 1.5s ease-out;
+}
+
+
 /*general*/
 .highlight{
     color: var(--main-color);
