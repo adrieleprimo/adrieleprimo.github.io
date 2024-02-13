@@ -3,15 +3,16 @@
 
 #### English:
 
-Hello, this is the repository of my simple portfolio, which brings together my experiences as a software developer. 
+Hello, this is the repository of my simple portfolio, which brings together my experiences as a software developer. You can access by this link: 
 #### Portuguese:
 Olá, este é o repositório do meu simples portfólio, no qual une até então minhas experiências como desenvolvedora de software.
 
 ## Table of contents/Índice de conteúdos:
+- [**Portfolio**](https://adrieleprimo.github.io/)
 - [**Technologies**](#technologies)
     - [Backend](#backend)
     - [Frontend](#frontend)
-    - [Databases](#databases-bancodedados)
+    - [Databases](#databases)
     - [Tools](#tools)
 ---
 ## Backend
@@ -42,7 +43,7 @@ Olá, este é o repositório do meu simples portfólio, no qual une até então 
 </p>
 
 ---
-## Databases/Bancodedados
+## Databases
 <p align="left">  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgresql" />
@@ -52,7 +53,7 @@ Olá, este é o repositório do meu simples portfólio, no qual une até então 
 <code>PostgreSQL</code>
 
 ---
-## Tools/Ferramentas
+## Tools
 <p align="left">  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker" />
