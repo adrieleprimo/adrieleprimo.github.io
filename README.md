@@ -31,13 +31,11 @@ Olá, este é o repositório do meu simples portfólio, no qual une até então 
 ## Frontend
 <p align="left">  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,angular,css,html" />
+    <img src="https://skillicons.dev/icons?i=js,css,html" />
   </a>
 </p>
 <p align="left">
 <code>Javascript</code>
-<code>TypeScript</code>
-<code>Angular</code>
 <code>CSS</code>
 <code>HTML</code>
 </p>
