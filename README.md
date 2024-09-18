@@ -1,6 +1,6 @@
 # BlackDoc
 
-![Jekyll version](https://img.shields.io/badge/Jekyll-3.x-brightgreen.svg?style=flat-square)
+![Jekyll version](https://img.shields.io/badge/Jekyll-4.x-brightgreen.svg?style=flat-square)
 
 BlackDoc is a two-column [Jekyll](http://jekyllrb.com) theme that's ideal for websites that require a master-detail layout for viewing of content. It's based on [Poole](http://getpoole.com), the Jekyll butler, and the [Hyde](http://hyde.getpoole.com) theme.
 
@@ -23,7 +23,7 @@ BlackDoc is a two-column [Jekyll](http://jekyllrb.com) theme that's ideal for we
 
 ## Features
 
-* Now compatible with Jekyll 3.x
+* Now compatible with Jekyll 4.x
 * Two-column layout with scrolling sidebar content
 * Ideal for websites that require  master-detail view of content
 
@@ -35,11 +35,11 @@ Download the zip file or clone the BlackDoc repo.
 $ git clone git@github.com:karloespiritu/BlackDoc.git mysite
 $ cd mysite
 ```
-Make sure you have Ruby 2.2.5 or higher installed.
+Make sure you have Ruby 3.3.0 or higher installed.
 
 ```bash
 $ ruby --version
-ruby 2.2.5
+ruby 3.3.0
 ```
 
 Install bundler and install dependencies.
