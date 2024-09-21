@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    jekyll-theme-blackdoc (2.0.1)
+    jekyll-theme-blackdoc (3.0.0)
       jekyll (~> 4.3.4)
       jekyll-feed (~> 0.6)
       jekyll-gist (~> 1.5)
