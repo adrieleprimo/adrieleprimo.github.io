@@ -10,55 +10,22 @@ Olá, este é o repositório do meu simples portfólio, no qual une até então 
 ## Table of contents/Índice de conteúdos:
 - [**Portfolio**](https://adrieleprimo.github.io/)
 - [**Technologies**](#technologies)
-    - [Backend](#backend)
-    - [Frontend](#frontend)
-    - [Databases](#databases)
-    - [Tools](#tools)
+ 
 ---
-## Backend
+## Technologies
 <p align="left">  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,java" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,python,mysql,postgresql,git" />
   </a>
 </p>
 <p align="left">
 <code>Javascript</code>
-<code>Nodejs</code>
-<code>Java</code>
-</p>
-
----
-## Frontend
-<p align="left">  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,css,html" />
-  </a>
-</p>
-<p align="left">
-<code>Javascript</code>
-<code>CSS</code>
 <code>HTML</code>
-</p>
-
----
-## Databases
-<p align="left">  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql" />
-  </a>
-</p>
-<p align="left">
+<code>CSS</code>
+<code>Nodejs</code><code>Python</code>
+<code>MySQL</code>
 <code>PostgreSQL</code>
-
----
-## Tools
-<p align="left">  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker" />
-  </a>
-</p>
-<p align="left">
 <code>Git</code>
-<code>Docker</code>
 
----
+</p>
+
