@@ -1,5 +1,5 @@
 # Adriele Primo (Obtuosa)
-<p align="center"><img align="center" width="280" src="./img/Undyne.webp"/></p>
+<p align="center"><img align="center" width="280" src="./assets/Undyne.webp"/></p>
 
 #### English:
 
