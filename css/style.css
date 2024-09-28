@@ -11,10 +11,7 @@
 :root{
     --main-color:#bb6543;
     --main-text-color: white;
-    --border-color: #191919;
-    --bio-bg-color: #191919;
     --bio-border-color: #fff;
-    --about-bg-color: #411010;
 }
 
 @keyframes enterAnimation {
@@ -34,9 +31,21 @@
 
 /*general*/
 .highlight{
-    color: var(--main-color);
+    color: #60829e;
 }
 /*containers*/
+
+.video-container{
+    position: fixed;
+    top: 0; 
+    left: 0;
+    width: 100%; 
+    height: 100%; 
+    object-fit: cover;
+    z-index: -1;
+    filter: blur(2px);
+    
+}
 #container{
     display: flex;
     flex-direction: row;
@@ -95,7 +104,7 @@
 }
 
 #social-container li a{
-    color: var(--main-color);
+    color: #394e6d;
     font-size:50px ;
 }
 
@@ -135,12 +144,18 @@
     margin-bottom: 10px;
 }
 
+.btn-container {
+    display: flex; 
+    justify-content: center; 
+    margin: 25px 0; 
+}
+
 #btn-projects{
     font-weight: bold;
     font-size: 16px;
     color:var(--main-text-color);
-    background-color: var(--main-color);
-    border: 2px solid var(--main-color);
+    background-color: #1e233c;
+    border: 2px solid #1e233c;
     border-radius: 5px;
     text-decoration: none;
     transition: .5s;
@@ -164,6 +179,7 @@
 #btn-projects:hover{
     background-color: transparent;
 }
+
 
 #skills-section-title{
     border-top: 2px solid var(--bio-border-color);
@@ -189,7 +205,7 @@
     margin-bottom: 25px;
     font-weight: bold;
     padding-left: 10px;
-    border-left: 5px solid var(--main-color);  
+    border-left: 5px solid #1e233c;  
 }
 
 .skills-box i{
