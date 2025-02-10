@@ -6,6 +6,7 @@ export default function Page({posts}) {
       <>
       <h1>Página Inicial</h1>
       <p>Blog com objetivo de trazer insights e ideias da minha jornada em TI</p>
+      <p>Listagem de posts:</p>
       {
         posts.map(post =>
           <p>
