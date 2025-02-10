@@ -1,7 +1,5 @@
-import {remark} from 'remark';
-import html from 'remark-html';
 import {getAllPosts, getPost} from '../services/api.js';
-
+import markdown from '../services/markdown.js';
 
 export async function getStaticPaths(){
     const posts = getAllPosts(['slug']);
@@ -34,14 +32,8 @@ export async function getStaticProps({params}){
         'content'
     ]);
 
-    const processedContent = await remark().use(html).process(post.content);
-    const contentHtml = processedContent.toString();
-    return{
-        props: {
-            post:{
-                ...post,
-                content: contentHtml,
-            }
-        }
-    }
+     post.content = await markdown.toHTML(post.content);
+     return {
+        props: {post}
+     }
 }
