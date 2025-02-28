@@ -6,14 +6,14 @@ highlighter:      rouge
 title:            BlackDoc
 tagline:          Black Theme for Jekyll
 description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
-url:              https://github.com/karloespiritu/BlackDoc/
-baseurl:          "/BlackDoc/"
+url:              https://adrieleprimo.github.io/
+baseurl:          "/my-blog/"
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
 
 author:
-  name:           Karlo Espiritu
-  url:            https://twitter.com/karloespiritu
+  name:           Adriele
+  url:            https://github.com/adrieleprimo/
 
 paginate:         5
 # paginate_path:    '/page:num'
